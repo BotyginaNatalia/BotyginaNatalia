@@ -1,10 +1,10 @@
-<h1 align="center">Всем привет! Меня зовут Наталья.  
+<h1 align="center">Всем привет! Меня зовут Наталья  
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <p align="center">
 <a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1DF73F&center=true&vCenter=true&width=435&lines=Начинающий+front-end+разработчик" alt="Typing SVG" align="center"/></a>
 </p>
 
-<h2 align="center">Used tools and languages:
+<h2 align="center">Стек технологий и инструментов:
   <p>
   <p align="center"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
